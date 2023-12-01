@@ -12,9 +12,9 @@ int main() {
 		r++;
 	}
 
-	/*fclose(fp);
+	fclose(fp);
 
-	for (int r = 0; r < row; r++) {
+	/*for (int r = 0; r < row; r++) {
 		for (int c = 0; c < col; c++) {
 			if (data[r][c] == '1') {
 				printf("*");
