@@ -4,7 +4,7 @@ int main() {
 	const int col = 8;
 	const int row = 8;
 
-	FILE* fp = fopen("data.txt", "r");
+	/*FILE* fp = fopen("data.txt", "r");
 
 	char data[row][col + 1] = {};
 	int r = 0;
@@ -27,4 +27,4 @@ int main() {
 	}
 
 	return 0;
-}
+}*/
